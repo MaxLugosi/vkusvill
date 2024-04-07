@@ -11,6 +11,9 @@ let faqSwiper = new Swiper('.faqSwiper', {
   },
 
   breakpoints: {
+    320: {
+      slidesPerView: 1,
+    },
     480: {
       slidesPerView: 1,
     },
