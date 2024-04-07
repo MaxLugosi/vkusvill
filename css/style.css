@@ -442,7 +442,7 @@ a {
 }
 .article-chat:before {
   content: '';
-  background-image: url('images/white_chat.svg');
+  background-image: url('../images/white_chat.svg');
   display: block;
   width: 16px;
   height: 16px;
