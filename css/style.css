@@ -173,7 +173,7 @@ a {
 
 .support__block-button--chat:before {
   content: '';
-  background-image: url('/images/chat.svg');
+  background-image: url('images/chat.svg');
   display: block;
   width: 14px;
   height: 13px;
@@ -182,7 +182,7 @@ a {
 
 .support__block-button--call:before {
   content: '';
-  background-image: url('/images/call.svg');
+  background-image: url('images/call.svg');
   display: block;
   width: 16px;
   height: 16px;
@@ -191,7 +191,7 @@ a {
 
 .support__block-button--mail:before {
   content: '';
-  background-image: url('/images/mail.svg');
+  background-image: url('images/mail.svg');
   display: block;
   width: 14px;
   height: 11px;
@@ -200,7 +200,7 @@ a {
 
 .support__block-button--review:before {
   content: '';
-  background-image: url('/images/review.svg');
+  background-image: url('images/review.svg');
   display: block;
   width: 18px;
   height: 16px;
@@ -442,7 +442,7 @@ a {
 }
 .article-chat:before {
   content: '';
-  background-image: url('/images/white_chat.svg');
+  background-image: url('images/white_chat.svg');
   display: block;
   width: 16px;
   height: 16px;
